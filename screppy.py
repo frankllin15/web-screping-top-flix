@@ -7,7 +7,7 @@ import re
 from bs4 import BeautifulSoup, BeautifulStoneSoup
 import pandas as pd
 
-def searchEmbed(media_name, release_date):
+def searchEmbed(media_name):
 
     options = Options()
     options.binary_location = r"C:\Users\frank\AppData\Local\Mozilla Firefox\firefox.exe"
@@ -18,48 +18,57 @@ def searchEmbed(media_name, release_date):
     email = "frankllin15@outlook.com"
     password = "frank98033809"
     # media_name = "Bob Esponja"
-    regex = re.compile(r"tt[0-9]{7}")
+    regex = re.compile(r"tt[0-9a-z]{7}")
 
-    driver.get(url)
+    try:
 
-    sleep(1)
+        driver.get(url)
 
-    login_btn = driver.find_element_by_xpath("/html/body/nav/div/div/a[2]")
-    login_btn.click()
+        sleep(1)
 
-    # sleep(2)
+        login_btn = driver.find_element_by_xpath("/html/body/nav/div/div/a[2]")
+        login_btn.click()
 
-    driver.find_element_by_xpath("//*[@id='inputEmail']").send_keys(email)
-    driver.find_element_by_xpath("//*[@id='inputPassword']").send_keys(password)
+        # sleep(2)
 
-    driver.find_element_by_xpath("/html/body/div/div/form/button").click()
-    sleep(2)
-    driver.find_element_by_xpath("//*[@id='search']").send_keys(media_name)
-    driver.find_element_by_xpath("//*[@id='search']").send_keys(u'\ue007')
-    sleep(3)
+        driver.find_element_by_xpath("//*[@id='inputEmail']").send_keys(email)
+        driver.find_element_by_xpath("//*[@id='inputPassword']").send_keys(password)
 
-    html_content = driver.find_element_by_xpath("//*[@id='dataTables-example0']").get_attribute("outerHTML")
+        driver.find_element_by_xpath("/html/body/div/div/form/button").click()
+        sleep(2)
+        driver.find_element_by_xpath("//*[@id='search']").send_keys(media_name)
+        driver.find_element_by_xpath("//*[@id='search']").send_keys(u'\ue007')
+        sleep(3)
 
-    links_embeds = driver.find_elements_by_css_selector("td > a")
+        html_content = driver.find_element_by_xpath("//*[@id='dataTables-example0']").get_attribute("outerHTML")
 
-    print("links "+links_embeds)
+        title_name = driver.find_elements_by_xpath("//*[@id='dataTables-example0']/tbody/tr/td[1]/a")
+        links_embeds = driver.find_elements_by_css_selector("td > a[title='LINK EMBED']")
+        imdb_id = driver.find_elements_by_css_selector("td > a[title='LINK IMDB']")
+        rl_date = driver.find_elements_by_xpath("//*[@id='dataTables-example0']/tbody/tr/td[2]")
+         
+        # print('rl_date: ', rl_date)
+        results = []
+
+        for l in range(0, len(links_embeds)):
+
+            # print("title_name: ", title_name[l].get_attribute("innerHTML"))
+            # print("embed:", links_embeds[l].get_attribute("href"))
+
+            results.append({
+                "title_name": title_name[l].get_attribute("innerHTML"),
+                "embed": links_embeds[l].get_attribute("href"),
+                "imdb_id": regex.search(imdb_id[l].get_attribute("href")).group(),
+                "rl_date": rl_date[l].get_attribute("innerHTML")[:10]
+                
+            })
+
+            print("results ", results)
    
+    finally:
+        driver.quit()
 
-    driver.quit()
-
-
-html = open("Buscar Filmes_Séries - TopFlix.html", "r").read()
-soup = BeautifulSoup(html, 'html.parser')
-
-table = soup.find(name='table'), 'html.parser'
-
-dt_full = pd.read_html(str(table))[0]
-
-# print(dt_full)
- 
-# print(dt_full)
-
-    
+    return results    
 searchEmbed("Bob Esponja", '')
 
 

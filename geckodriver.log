@@ -1867,3 +1867,332 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
 [Parent 14900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
 1622261485909	Marionette	INFO	Stopped listening on port 62946
+1622262182193	geckodriver	INFO	Listening on 127.0.0.1:60533
+1622262185195	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileCE71wp"
+*** You are running in headless mode.
+1622262186310	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622262188163	Marionette	INFO	Listening on port 63317
+<jemalloc>: (malloc) Error initializing arena
+out of memory: 0x0000000000000030 bytes requested
+<jemalloc>: (malloc) Error initializing arena
+out of memory: 0x0000000000000030 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+JavaScript error: chrome://marionette/content/server.js, line 133: NS_ERROR_FILE_NOT_FOUND: 
+JavaScript error: chrome://marionette/content/server.js, line 74: NS_ERROR_FILE_NOT_FOUND: 
+Exiting due to channel error.
+1622262204566	geckodriver	INFO	Listening on 127.0.0.1:61120
+1622262207577	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileesxI7b"
+*** You are running in headless mode.
+1622262208497	Marionette	INFO	Marionette enabled
+uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser.js, line 4066: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed buffer for -11, -8, 919, 66
+JavaScript error: chrome://browser/content/browser.js, line 4066: NS_ERROR_FAILURE
+JavaScript error: , line 0: uncaught exception: out of memory
+Hit MOZ_CRASH([unhandlable oom] Failed not allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1189
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 929: uncaught exception: out of memory
+JavaScript error: , line 0: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000000080 bytes requested
+1622262274045	geckodriver	INFO	Listening on 127.0.0.1:59866
+1622262277085	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilePGuieC"
+*** You are running in headless mode.
+1622262277786	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622262279532	Marionette	INFO	Listening on port 56596
+1622262279748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59361
+1622262421321	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofiletd4pXx"
+*** You are running in headless mode.
+1622262421823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622262423638	Marionette	INFO	Listening on port 52210
+1622262423991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 10672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622263730303	Marionette	INFO	Stopped listening on port 52210
+e running in headless mode.
+1622262559490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622262561221	Marionette	INFO	Listening on port 61098
+1622262561560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13844, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 13844, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622263726562	Marionette	INFO	Stopped listening on port 61098
+ngs file exists, new profile?" (new Error("", "(unknown module)"))
+1622262766387	Marionette	INFO	Listening on port 61956
+1622262766826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622262778166	Marionette	INFO	Stopped listening on port 61956
+1622262857809	geckodriver	INFO	Listening on 127.0.0.1:52754
+1622262860840	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileWc1HSk"
+*** You are running in headless mode.
+1622262861537	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622262863505	Marionette	INFO	Listening on port 56825
+1622262864020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622262875845	Marionette	INFO	Stopped listening on port 56825
+1622262950169	geckodriver	INFO	Listening on 127.0.0.1:62820
+1622262953198	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileZrkvaN"
+*** You are running in headless mode.
+1622262953801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622262955614	Marionette	INFO	Listening on port 65180
+1622262955909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622262968051	Marionette	INFO	Stopped listening on port 65180
+1622263061500	geckodriver	INFO	Listening on 127.0.0.1:57907
+1622263064542	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile2QF1Wo"
+*** You are running in headless mode.
+1622263065026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622263066648	Marionette	INFO	Listening on port 59332
+1622263066723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622263078184	Marionette	INFO	Stopped listening on port 59332
+1622263119149	geckodriver	INFO	Listening on 127.0.0.1:58346
+1622263122161	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilemMXWMd"
+*** You are running in headless mode.
+1622263122840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622263124729	Marionette	INFO	Listening on port 55725
+1622263124858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622263137449	Marionette	INFO	Stopped listening on port 55725
+1622263195646	geckodriver	INFO	Listening on 127.0.0.1:63840
+1622263198653	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilekeS3Dd"
+*** You are running in headless mode.
+1622263199207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622263201015	Marionette	INFO	Listening on port 59853
+1622263201363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622263212804	Marionette	INFO	Stopped listening on port 59853
+[Parent 11384, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622263275832	geckodriver	INFO	Listening on 127.0.0.1:61371
+1622263278891	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileY0FhSf"
+*** You are running in headless mode.
+1622263279352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622263281083	Marionette	INFO	Listening on port 62137
+1622263281574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622263293331	Marionette	INFO	Stopped listening on port 62137
+1622263364803	geckodriver	INFO	Listening on 127.0.0.1:61431
+1622263367832	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile3E5vCe"
+*** You are running in headless mode.
+1622263368305	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622263369942	Marionette	INFO	Listening on port 58915
+1622263370021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622263381113	Marionette	INFO	Stopped listening on port 58915
+1622263474081	geckodriver	INFO	Listening on 127.0.0.1:50068
+1622263477124	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilewrPykW"
+*** You are running in headless mode.
+1622263477626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622263479178	Marionette	INFO	Listening on port 63239
+1622263479288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622263491886	Marionette	INFO	Stopped listening on port 63239
+1622263654672	geckodriver	INFO	Listening on 127.0.0.1:59973
+1622263657756	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile3ikwq4"
+*** You are running in headless mode.
+1622263658204	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622263659990	Marionette	INFO	Listening on port 51378
+1622263660409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 7948, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622263723355	Marionette	INFO	Stopped listening on port 51378
+1622263738741	geckodriver	INFO	Listening on 127.0.0.1:54407
+1622263741767	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileMruxV8"
+*** You are running in headless mode.
+1622263742318	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622263744092	Marionette	INFO	Listening on port 64109
+1622263744467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622263759564	Marionette	INFO	Stopped listening on port 64109
+1622263793457	geckodriver	INFO	Listening on 127.0.0.1:65112
+1622263796522	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileCx5HjH"
+*** You are running in headless mode.
+1622263796971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622263798632	Marionette	INFO	Listening on port 50275
+1622263798706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622263810234	Marionette	INFO	Stopped listening on port 50275
+[Parent 10376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622263910173	geckodriver	INFO	Listening on 127.0.0.1:57046
+1622263913267	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileshAZIE"
+*** You are running in headless mode.
+1622263913738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622263915302	Marionette	INFO	Listening on port 58411
+1622263915425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/ line 1 > injectedScript, line 2: TypeError: $(...).carousel is not a function
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622263927178	Marionette	INFO	Stopped listening on port 58411
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622263963294	geckodriver	INFO	Listening on 127.0.0.1:59374
+1622263966353	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilenwVFvJ"
+*** You are running in headless mode.
+1622263966757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622263968323	Marionette	INFO	Listening on port 52419
+1622263968440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622263981050	Marionette	INFO	Stopped listening on port 52419
+[Parent 13828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622264068513	geckodriver	INFO	Listening on 127.0.0.1:60849
+1622264071593	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileEemfJm"
+*** You are running in headless mode.
+1622264072130	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622264073717	Marionette	INFO	Listening on port 57375
+1622264073753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622264085551	Marionette	INFO	Stopped listening on port 57375
+1622264442377	geckodriver	INFO	Listening on 127.0.0.1:62044
+1622264445445	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileEQvMtT"
+*** You are running in headless mode.
+1622264446002	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622264447765	Marionette	INFO	Listening on port 49871
+1622264448108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622264461642	Marionette	INFO	Stopped listening on port 49871
+1622264524217	geckodriver	INFO	Listening on 127.0.0.1:61763
+1622264527250	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilekBeo2Q"
+*** You are running in headless mode.
+1622264527805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622264529652	Marionette	INFO	Listening on port 65407
+1622264529943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622264541906	Marionette	INFO	Stopped listening on port 65407
+[Parent 4544, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622264579413	geckodriver	INFO	Listening on 127.0.0.1:55878
+1622264582481	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilej3nghc"
+*** You are running in headless mode.
+1622264582967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622264584550	Marionette	INFO	Listening on port 63121
+1622264584667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622264597172	Marionette	INFO	Stopped listening on port 63121
+[Parent 14740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622264628086	geckodriver	INFO	Listening on 127.0.0.1:50261
+1622264631144	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileHnqMhQ"
+*** You are running in headless mode.
+1622264631635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622264633233	Marionette	INFO	Listening on port 57982
+1622264633335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622264645649	Marionette	INFO	Stopped listening on port 57982
+1622264649766	geckodriver	INFO	Listening on 127.0.0.1:54685
+1622264652826	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileRmr7Yz"
+*** You are running in headless mode.
+1622264653303	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622264655038	Marionette	INFO	Listening on port 54442
+1622264655523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622264665434	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1622264668638	Marionette	INFO	Stopped listening on port 54442
+1622264713040	geckodriver	INFO	Listening on 127.0.0.1:57305
+1622264716093	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile5K4BlR"
+*** You are running in headless mode.
+1622264716545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622264718162	Marionette	INFO	Listening on port 52969
+1622264718266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622264729903	Marionette	INFO	Stopped listening on port 52969
+1622265212305	geckodriver	INFO	Listening on 127.0.0.1:60563
+1622265215367	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilekNQLYi"
+*** You are running in headless mode.
+1622265215885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622265217488	Marionette	INFO	Listening on port 52644
+1622265217549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622265230285	Marionette	INFO	Stopped listening on port 52644
+1622265270574	geckodriver	INFO	Listening on 127.0.0.1:50542
+1622265273622	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofiletZv56f"
+*** You are running in headless mode.
+1622265274065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622265275768	Marionette	INFO	Listening on port 60025
+1622265275813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-messaging.js
+1622265288764	Marionette	INFO	Stopped listening on port 60025
+1622265400752	geckodriver	INFO	Listening on 127.0.0.1:61139
+1622265403794	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileMrxbb8"
+*** You are running in headless mode.
+1622265404285	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622265405919	Marionette	INFO	Listening on port 64359
+1622265405973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622265418127	Marionette	INFO	Stopped listening on port 64359
+1622265454115	geckodriver	INFO	Listening on 127.0.0.1:63966
+1622265457177	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileFwNHK0"
+*** You are running in headless mode.
+1622265457656	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622265459431	Marionette	INFO	Listening on port 63856
+1622265459879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622265473093	Marionette	INFO	Stopped listening on port 63856
+1622265672865	geckodriver	INFO	Listening on 127.0.0.1:50106
+1622265675956	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilesX67sZ"
+*** You are running in headless mode.
+1622265676485	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622265678191	Marionette	INFO	Listening on port 58853
+1622265678652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622265691643	Marionette	INFO	Stopped listening on port 58853
+1622265734554	geckodriver	INFO	Listening on 127.0.0.1:53209
+1622265737606	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileR8qNsJ"
+*** You are running in headless mode.
+1622265738095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622265739807	Marionette	INFO	Listening on port 58504
+1622265740304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622265753693	Marionette	INFO	Stopped listening on port 58504
+1622265810756	geckodriver	INFO	Listening on 127.0.0.1:57673
+1622265813812	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilehf9F1G"
+*** You are running in headless mode.
+1622265814278	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622265815864	Marionette	INFO	Listening on port 49533
+1622265815991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622265829543	Marionette	INFO	Stopped listening on port 49533
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
