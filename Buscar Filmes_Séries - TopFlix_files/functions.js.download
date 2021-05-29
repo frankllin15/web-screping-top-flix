@@ -1,0 +1,306 @@
+	var id = 0;
+	var EpDub = [];
+	var EpLeg = [];
+
+	
+function AddServer(){
+	id++;
+	var oldHTML = $("#addServerHere").html();
+	// var nHTML = '<div id="SvId-'+id+'" class="form-panel addServer"> <h2 class="mb"><i class="fas fa-hdd"></i> <b>Servidor:</b> <span id="tName-'+id+'"> #'+id+'</span></h2><br/> <div class="form-horizontal"><div class="form-group"><label for="formGroupTitleInput">Nome do Servidor:</label><input id="SvName" idd="'+id+'" type="text" name="SvName-'+id+'" class="form-control" value="Servidor #'+id+'"></div><div class="form-group"><label class="col-sm-2 col-sm-2 control-label">Video URL:</label><div class="col-sm-10"><input name="SvURL-'+id+'" type="text" class="form-control"><!--<span class="help-block"><a >Video URL Exemples</a></span>--></div></div><div class="form-group"><label class="col-sm-2 col-sm-2 control-label">Closed Captions:</label><div class="col-sm-10"><input name="ccURL-'+id+'" type="text" class="form-control"></div></div><div class="form-group"><label class="col-sm-2 col-sm-2 control-label">Tipo:</label><div class="col-sm-10"><select name="sType-'+id+'" class="form-control">'+CallSelectOptions(1000)+'</select></div></div></div></div>';
+var nHTML = '<div id="SvId-'+id+'" class="form-panel addServer"><h2 class="mb"><i class="fas fa-hdd"></i> <b>Servidor: </b><span id="tName-'+id+'"> '+id+'</span></h2><div class="form-group"><label for="formGroupTitleInput">Nome do Servidor:</label><input id="SvName" idd="'+id+'" type="text" name="SvName-'+id+'" class="form-control" value="Servidor #'+id+'" placeholder="Ex: OpenLoad"></div><div class="form-group"><label for="formGroupURLInput">Video URL:</label><input name="SvURL-'+id+'" type="url" class="form-control" id="formGroupURLInput" placeholder="URL do video" required></div><div class="col-md-6"><label for="formGroupTIPOInput">Tipo de Video:</label><div class="form-group"><select name="sType-'+id+'" class="form-control">'+CallSelectOptions(1001)+'</select></div></div><div class="col-md-6"><div class="form-group"><label for="formGroupServicoInput">Legendas:</label><input  name="ccURL-'+id+'" type="text" class="form-control" id="formGroupServicoInput"></div></div></div>';
+
+	$("#addServerHere").append(nHTML);
+	$('#SvAmount').val(id);
+}
+
+function AddServer2(Nome, URL, CC, sType){
+	id++;
+	var oldHTML = $("#addServerHere").html();
+	
+	var nHTML = '<div id="SvId-'+id+'" class="form-panel addServer"> <h2 class="mb"><i class="fas fa-hdd"></i> <b>Servidor:</b> <span id="tName-'+id+'">'+Nome+'</span></h2><div class="form-group"><label for="formGroupTitleInput">Nome do Servidor:</label> <input id="SvName" idd="'+id+'" type="text" name="SvName-'+id+'" class="form-control" value="'+Nome+'"></div><div class="form-group"><label for="formGroupURLInput">Video URL:</label><input name="SvURL-'+id+'" type="url" class="form-control" value="'+URL+'"></div><div class="col-md-6"><label for="formGroupTIPOInput">Tipo de Video:</label><div class="form-group"><select name="sType-'+id+'" class="form-control">'+CallSelectOptions(sType)+'</select></div></div><div class="col-md-6" style="float:right;"><div class="form-group"><label for="formGroupServicoInput">Legendas:</label><input  name="ccURL-'+id+'" type="text" class="form-control" id="formGroupServicoInput"></div></div></div>';
+
+	$("#addServerHere").append(nHTML);
+	$('#SvAmount').val(id);
+}
+
+function RemoveServer(){
+	if(id > 1){
+		if (window.confirm('Você realmente deseja remover ? Clique em OK para confirmar!')){
+			$("#SvId-"+id).remove();
+			id--;
+		}
+		$('#SvAmount').val(id);
+	}
+}
+	
+	
+	
+function CallSelectOptions(ID){
+	var Options = '';
+	var Selected = '';
+	if(ID == 1001){
+		Options += '<option selected value="1001">IFRAME</option>';
+	}else{
+		Options += '<option value="1001">IFRAME</option>';
+	}
+	if(ID == 1000){
+		Options += '<option selected value="1000">POWERSTREAM</option>';
+	}else{
+		Options += '<option value="1000">POWERSTREAM</option>';
+	}
+	for (i = 0; i < TypesStream.length; i++) {
+		Selected = '';
+		if(i == ID){
+			Selected = 'selected';
+		}
+		Options += '<option '+Selected+' value="'+i+'">'+TypesStream[i]+'</option>';
+	}	
+	return Options;
+}
+	
+	
+	
+	
+	
+//-----------------------------------------------------------------------------------
+	
+	function AddSeason(){
+		id++;
+		var oldHTML = $("#addServerHere").html();
+		var nHTML = '<li id="SvId-'+id+'" class="form-panel"><h4 class="mb"><i class="fas fa-magic"></i> <b>'+id+'</b>° Temporada</h4><div class="panel panel-default" style="border:none;width:100%;margin:0;"><div class="panel-heading"><b style="border:1px dashed #CB3030;padding:3px;">Dublado</b></div><div class="panel-body" id="content-episodios"><div id="addDub-'+id+'"></div></div><div class="panel-footer"><div class="btn-group btn-group-justified"><div class="btn-group"><button type="button" class="btn btn-primary" onclick="AddEpDub('+id+')">Adicionar Episódio</button></div><div class="btn-group"><button type="button" class="btn btn-warning" onclick="RemoveEpDub('+id+')">Excluir Episódio</button></div><div class="btn-group"><button type="button" class="btn btn-danger" onclick="RemoveAllEpDub('+id+')">Excluir Todos</button></div></div></div></div><div class="panel panel-default" style="border:none;width:100%;margin:0;margin-top:20px;"><div class="panel-heading"><b style="border:1px dashed #CB3030;padding:3px;">Legendado</b></div><div class="panel-body" id="content-episodios"><div id="addLeg-'+id+'"></div></div><div class="panel-footer"><div class="btn-group btn-group-justified"><div class="btn-group"><button type="button" class="btn btn-primary" onclick="AddEpLeg('+id+')">Adicionar Episódio</button></div><div class="btn-group"><button type="button" class="btn btn-warning" onclick="RemoveEpLeg('+id+')">Excluir Episódio</button></div><div class="btn-group"><button type="button" class="btn btn-danger" onclick="RemoveAllEpLeg('+id+')">Excluir Todos</button></div></div></div></div></li>';
+		// var nHTML = '<li id="SvId-'+id+'" class="form-panel"><h4 class="mb"><i class="fas fa-magic"></i> <b>'+id+'</b> ° Temporada</h4><div class="form-group"><label class="col-sm-2 col-sm-2 control-label">Dublado:</label><div id="addDub-'+id+'"></div></div><div class="btn-group btn-group-justified"><div class="btn-group"><button type="button" class="btn btn-primary" onclick="AddEpDub('+id+')">Adicionar Episódio</button></div><div class="btn-group"><button type="button" class="btn btn-warning" onclick="RemoveEpDub('+id+')">Excluir Episódio</button></div><div class="btn-group"><button type="button" class="btn btn-danger" onclick="RemoveAllEpDub('+id+')">Excluir Todos</button></div></div>        <div class="form-group"><label class="col-sm-2 col-sm-2 control-label">Legendado:</label><div id="addLeg-'+id+'"></div></div><div class="btn-group btn-group-justified"><div class="btn-group"><button type="button" class="btn btn-primary" onclick="AddEpLeg('+id+')">Adicionar Episódio</button></div><div class="btn-group"><button type="button" class="btn btn-warning" onclick="RemoveEpLeg('+id+')">Excluir Episódio</button></div><div class="btn-group"><button type="button" class="btn btn-danger" onclick="RemoveAllEpLeg('+id+')">Excluir Todos</button></div></div>                   </div></li>';
+	
+		$("#addServerHere").append(nHTML);
+		$('#SvAmount').val(id);
+	
+		EpDub[id-1] = 0;
+		EpLeg[id-1] = 0;
+		EpsUP();
+		
+		$(document).ready(function () {
+			$('#menu').metisMenu();
+		});
+	}
+	
+	function RemoveSeason(){
+		if(id > 1){
+			if (window.confirm('Você realmente deseja remover ? Clique em OK para confirmar!')){
+				$("#SvId-"+id).remove();
+				EpDub.pop(); // remove ultimo elemento
+				EpLeg.pop(); // remove ultimo elemento
+				id--;
+			}
+			EpsUP();
+			$('#SvAmount').val(id);
+		}
+	}
+	function RemoveAllServer(){
+
+	}
+//Dublado
+	function AddEpDub(ServerID){
+		if(!EpDub[ServerID-1])
+			EpDub[ServerID-1] = 0;
+			
+		var oldHTML = $("#addDub-"+ServerID).html();
+		EpDub[ServerID-1] = EpDub[ServerID-1]+1;
+		EpID = EpDub[ServerID-1];
+		var nHTML = '<div id="EpDub-'+ServerID+'-'+EpID+'"><div class="well" style="padding:20px;background:#d9edf7;width:100%;border-color: #bce8f1;"><span style="padding:7px 10px" class="label label-info">'+EpID+'° Episódio</span><br/><br/><div class="form-group"><label style="font-size:9pt;color:#31708f;">Título do Episódio:</label><input name="EpDubName-'+ServerID+'-'+EpID+'" type="text" class="form-control" placeholder="Ex: Piloto" required></div><div class="form-group"><label style="font-size:9pt;color:#31708f;">Video URL:</label><input name="EpDubURL-'+ServerID+'-'+EpID+'" type="url" class="form-control" /></div><div class="form-group"><label style="font-size:9pt;color:#31708f;">Tipo de Video</label><select name="sType-'+ServerID+'-'+EpID+'" class="form-control">'+CallSelectOptions(1001)+'</select></div></div></div>';
+		// var nHTML = '<div id="EpDub-'+ServerID+'-'+EpID+'"><label class="col-sm-2 col-sm-2 control-label"></label><div class="col-sm-10" style="width: 82%; color: #31708f; background-color: #d9edf7; border-color: #bce8f1; padding: 11px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; "><div class="form-group"><label class="col-sm-2 col-sm-2 control-label">'+EpID+'° Ep Name1:</label><div class="col-sm-10"><input name="EpDubName-'+ServerID+'-'+EpID+'" type="text" class="form-control"></div><label class="col-sm-2 col-sm-2 control-label">URL:</label><div class="col-sm-10"><input name="EpDubURL-'+ServerID+'-'+EpID+'" type="text" class="form-control"></div>   <label class="col-sm-2 col-sm-2 control-label">Type</label><div class="col-sm-10"><select name="sType-'+ServerID+'-'+EpID+'" class="form-control">'+CallSelectOptions(1000)+'</select></div></div></div></div>';
+		$("#addDub-"+ServerID).append(nHTML);
+		EpsUP();
+	}
+	
+	function AddEpDub2(ServerID, EpName, URL, sType){
+		if(!EpDub[ServerID-1])
+			EpDub[ServerID-1] = 0;
+		
+		var oldHTML = $("#addDub-"+ServerID).html();
+		EpDub[ServerID-1] = EpDub[ServerID-1]+1;
+		EpID = EpDub[ServerID-1];
+
+		var nHTML = '<div id="EpDub-'+ServerID+'-'+EpID+'"><div class="well" style="padding:20px;background:#d9edf7;width:100%;border-color: #bce8f1;"><span style="padding:7px 10px" class="label label-info">'+EpID+'° Episódio</span><br/><br/><div class="form-group"><label style="font-size:9pt;color:#31708f;">Título do Episódio:</label><input name="EpDubName-'+ServerID+'-'+EpID+'" value="'+EpName+'" type="text" class="form-control" required></div><div class="form-group"><label style="font-size:9pt;color:#31708f;">Video URL:</label><input name="EpDubURL-'+ServerID+'-'+EpID+'" type="url" value="'+URL+'" class="form-control" /></div><div class="form-group"><label style="font-size:9pt;color:#31708f;">Tipo de Video</label><select name="sType-'+ServerID+'-'+EpID+'" class="form-control">'+CallSelectOptions(sType)+'</select></div></div></div>';
+		// var nHTML = '<div id="EpDub-'+ServerID+'-'+EpID+'"><label class="col-sm-2 col-sm-2 control-label"></label><div class="col-sm-10" style="width: 82%; color: #31708f; background-color: #d9edf7; border-color: #bce8f1; padding: 11px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; "><div class="form-group"><label class="col-sm-2 col-sm-2 control-label">'+EpID+'° Ep Name:</label><div class="col-sm-10"><input name="EpDubName-'+ServerID+'-'+EpID+'" type="text" value="'+EpName+'" class="form-control"></div><label class="col-sm-2 col-sm-2 control-label">URL:</label><div class="col-sm-10"><input name="EpDubURL-'+ServerID+'-'+EpID+'" type="text" value="'+URL+'" class="form-control"></div> <label class="col-sm-2 col-sm-2 control-label">Type</label><div class="col-sm-10"><select name="sType-'+ServerID+'-'+EpID+'" class="form-control">'+CallSelectOptions(sType)+'</select></div></div></div></div>';
+		$("#addDub-"+ServerID).append(nHTML);
+		EpsUP();
+	}
+	
+	
+	function RemoveEpDub(ServerID){
+		if(EpDub[ServerID-1] > 0){
+			$("#EpDub-"+ServerID+"-"+EpDub[ServerID-1]).remove();
+			EpDub[ServerID-1] = EpDub[ServerID-1] - 1;
+		}
+		EpsUP();
+	}
+	function RemoveAllEpDub(ServerID){
+		EpDub[ServerID-1] = 0;
+		$("#addDub-"+ServerID).html('');
+		EpsUP();
+	}
+	
+//Legendado
+	function AddEpLeg(ServerID){
+		if(!EpLeg[ServerID-1])
+			EpLeg[ServerID-1] = 0;
+			
+		var oldHTML = $("#addLeg-"+ServerID).html();
+		EpLeg[ServerID-1] = EpLeg[ServerID-1]+1;
+		EpID = EpLeg[ServerID-1];
+		var nHTML = '<div id="EpLeg-'+ServerID+'-'+EpID+'"><div class="well" style="padding:20px;background:#d9edf7;width:100%;border-color: #bce8f1;"><span style="padding:7px 10px" class="label label-info">'+EpID+'° Episódio</span><br/><br/><div class="form-group"><label style="font-size:9pt;color:#31708f;">Nome do Episódio:</label><input name="EpLegName-'+ServerID+'-'+EpID+'" type="text" class="form-control" placeholder="Ex: Croaton"></div><div class="form-group"><label style="font-size:9pt;color:#31708f;">Video URL:</label><input name="EpLegURL-'+ServerID+'-'+EpID+'" type="url" class="form-control" /></div><div class="form-group"><label style="font-size:9pt;color:#31708f;">Legenda:</label><input name="EpLegCC-'+ServerID+'-'+EpID+'" type="text" class="form-control"></div><div class="form-group"><label style="font-size:9pt;color:#31708f;">Tipo de Video</label><select name="sTypeLeg-'+ServerID+'-'+EpID+'" class="form-control">'+CallSelectOptions(1001)+'</select></div></div></div>';
+		// var nHTML = '<div id="EpLeg-'+ServerID+'-'+EpID+'"><label class="col-sm-2 col-sm-2 control-label"></label><div class="col-sm-10" style="width: 82%; color: #31708f; background-color: #d9edf7; border-color: #bce8f1; padding: 11px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; "><div class="form-group"><label class="col-sm-2 col-sm-2 control-label">'+EpID+'° Ep Name:</label><div class="col-sm-10"><input name="EpLegName-'+ServerID+'-'+EpID+'" type="text" class="form-control"></div><label class="col-sm-2 col-sm-2 control-label">URL:</label><div class="col-sm-10"><input name="EpLegURL-'+ServerID+'-'+EpID+'" type="text" class="form-control"></div>       <label class="col-sm-2 col-sm-2 control-label">CC:</label><div class="col-sm-10"><input name="EpLegCC-'+ServerID+'-'+EpID+'" type="text" class="form-control"></div>          <label class="col-sm-2 col-sm-2 control-label">Type</label><div class="col-sm-10"><select name="sTypeLeg-'+ServerID+'-'+EpID+'" class="form-control">'+CallSelectOptions(1000)+'</select></div>  </div></div></div>';
+		$("#addLeg-"+ServerID).append(nHTML);
+		EpsUP();
+	}
+	
+	
+	function AddEpLeg2(ServerID, EpName, URL, CC, sType){
+		if(!EpLeg[ServerID-1])
+			EpLeg[ServerID-1] = 0;
+		
+		var oldHTML = $("#addLeg-"+ServerID).html();
+		EpLeg[ServerID-1] = EpLeg[ServerID-1]+1;
+		EpID = EpLeg[ServerID-1];
+		var nHTML = '<div id="EpLeg-'+ServerID+'-'+EpID+'"><div class="well" style="padding:20px;background:#d9edf7;width:100%;border-color: #bce8f1;"><span style="padding:7px 10px" class="label label-info">'+EpID+'° Episódio</span><br/><br/><div class="form-group"><label style="font-size:9pt;color:#31708f;">Nome do Episódio:</label><input name="EpLegName-'+ServerID+'-'+EpID+'" value="'+EpName+'" type="text" class="form-control"></div><div class="form-group"><label style="font-size:9pt;color:#31708f;">Video URL:</label><input name="EpLegURL-'+ServerID+'-'+EpID+'" type="url" value="'+URL+'" class="form-control" /></div><div class="form-group"><label style="font-size:9pt;color:#31708f;">Legenda:</label><input name="EpLegCC-'+ServerID+'-'+EpID+'" value="'+CC+'" type="text" class="form-control"></div><div class="form-group"><label style="font-size:9pt;color:#31708f;">Tipo de Video</label><select name="sTypeLeg-'+ServerID+'-'+EpID+'" class="form-control">'+CallSelectOptions(sType)+'</select></div></div></div>';
+		// var nHTML = '<div id="EpLeg-'+ServerID+'-'+EpID+'"><label class="col-sm-2 col-sm-2 control-label"></label><div class="col-sm-10" style="width: 82%; color: #31708f; background-color: #d9edf7; border-color: #bce8f1; padding: 11px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; "><div class="form-group"><label class="col-sm-2 col-sm-2 control-label">'+EpID+'° Ep Name:</label><div class="col-sm-10"><input name="EpLegName-'+ServerID+'-'+EpID+'" type="text" value="'+EpName+'" class="form-control"></div><label class="col-sm-2 col-sm-2 control-label">URL:</label><div class="col-sm-10"><input name="EpLegURL-'+ServerID+'-'+EpID+'" type="text" value="'+URL+'" class="form-control"></div>  <label class="col-sm-2 col-sm-2 control-label">CC:</label><div class="col-sm-10"><input name="EpLegCC-'+ServerID+'-'+EpID+'" type="text" value="'+CC+'" class="form-control"></div>  <label class="col-sm-2 col-sm-2 control-label">Type</label><div class="col-sm-10"><select name="sTypeLeg-'+ServerID+'-'+EpID+'" class="form-control">'+CallSelectOptions(sType)+'</select> </div>    </div></div></div>';
+		$("#addLeg-"+ServerID).append(nHTML);
+		EpsUP();
+	}
+	
+	
+	function RemoveEpLeg(ServerID){
+		if(EpLeg[ServerID-1] > 0){
+			$("#EpLeg-"+ServerID+"-"+EpLeg[ServerID-1]).remove();
+			EpLeg[ServerID-1] = EpLeg[ServerID-1] - 1;
+		}
+		EpsUP();
+	}
+	function RemoveAllEpLeg(ServerID){
+		EpLeg[ServerID-1] = 0;
+		$("#addLeg-"+ServerID).html('');
+		EpsUP();
+	}
+
+	
+	function EpsUP(){
+		 var SEpDub = EpDub.join(',');
+		 $('#EpDub').val(SEpDub);
+		 
+		 var SEpLeg = EpLeg.join(',');
+		 $('#EpLeg').val(SEpLeg);
+	}	
+	
+	
+	
+	
+	function strTohex(String){
+		var str = String;
+		var hex = '';
+		for(var i=0;i<str.length;i++){
+			hex += ''+str.charCodeAt(i).toString(16);
+			
+		}
+		return hex;
+		
+	}
+
+/*	
+var ImgurApiKey = '';
+var ImgurUpURL = '';
+$(document).ready(function() {
+	//Muda nome do sv no titulo
+	$('#addServerHere').on('change', '#SvName', function () {
+		var input = $( this );
+		var nName = input.attr("idd");
+		$("#tName-"+nName).html(input.val());
+		console.log('Mudou:'+input.val())
+	});
+	
+	$("#FilmPosterUpload").change(function(){
+	    readImage( this );
+	});
+	$( "#RemoveFilmPosterImage" ).click(function() {
+	  FilmPosterRemove();
+	});
+
+}); */
+
+var ImgurApiKey = '';
+var ImgurUpURL = '';
+$(document).ready(function() {
+    $('#addServerHere').on('change', '#SvName', function() {
+        var input = $(this);
+        var nName = input.attr("idd");
+        $("#tName-" + nName).html(input.val());
+        console.log('Mudou:' + input.val())
+    });
+    $("#FilmPosterUpload").change(function() {
+        readImage(this);
+    });
+    $("#RemoveFilmPosterImage").click(function() {
+        FilmPosterRemove();
+    });
+});
+
+
+function readImage(input) {
+    if ( input.files && input.files[0] ) {
+	var FR = new FileReader();
+        FR.onload = function(e) {
+		console.log('Encontrado: '+e.target.result);
+		$.ajax({
+		     type: 'POST',
+		     url: ImgurUpURL,
+		     data: { Image: e.target.result, Key: ApiKey},
+		     context: document.body,
+		     success:  function(resposta){
+		     	console.log('Arquivo enviado com success!');
+		        FilmPosterReceived(resposta);
+		     },
+		     beforeSend:function(){
+		     	console.log('Arquivo enviado!');
+		     	$(input).val('');
+		     },
+		     error:function(obj){
+		    	 console.log('Error');
+		    	 readImage(input);
+		     }
+		});
+        };       
+        FR.readAsDataURL( input.files[0] );
+    }
+}
+
+function FilmPosterReceived(Recebido) {
+	var TudoRecebidos = jQuery.parseJSON(Recebido);
+	if(TudoRecebidos['Error'] == true){
+	<!-- error -->
+	
+	}else{
+		<!-- success -->
+		document.getElementById("ImageFilmPoster").src = TudoRecebidos['ImageURL'];
+		document.getElementById("FilmPosterImageURL").value = TudoRecebidos['ImageURL'];
+		
+		document.getElementById('no-image-FP').style.display = 'none';
+		document.getElementById('has-image-FP').style.display = 'block';
+	}
+}
+
+function FilmPosterAddNovo(NewUrl){
+	console.log('Adicionado nova URL: '+NewUrl);
+	
+	document.getElementById("ImageFilmPoster").src = NewUrl;
+	document.getElementById("FilmPosterImageURL").value = NewUrl;
+		
+	document.getElementById('no-image-FP').style.display = 'none';
+	document.getElementById('has-image-FP').style.display = 'block';
+}
+
+
+function FilmPosterRemove() {
+	document.getElementById("ImageFilmPoster").src = '';
+	document.getElementById("FilmPosterImageURL").value = '';
+		
+	document.getElementById('has-image-FP').style.display = 'none';
+	document.getElementById('no-image-FP').style.display = 'block';
+}
