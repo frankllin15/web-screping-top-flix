@@ -5,20 +5,25 @@ from bson.json_util import dumps
 
 from flask.templating import render_template
 from flask_pymongo import PyMongo
-
+from pymongo import results
+import pymongo
 from screppy import searchEmbed
+
+import dns
 
 app = Flask(__name__)
 
-app.config['MONGO_DBNAME'] = 'best_films'
-app.config['MONGO_URI'] = 'mongodb://localhost:27017/best_films'
+# app.config['MONGO_DBNAME'] = 'best_films'
+# app.config['MONGO_URI'] = 'mongodb://localhost:27017/best_films'
+# mongodb://localhost:27017/best_films'
 
-mongo = PyMongo(app)
+mongo = pymongo.MongoClient("mongodb+srv://frank:2Aekl1JyIK6xy2wf@bestfilmscuster.oofs0.mongodb.net/best-films?retryWrites=true&w=majority")
+# PyMongo(app)
 embedCollection = mongo.db.embed
 
 @app.route('/embeds', methods=['GET'])
 def get_all_embeds():
-    embeds = mongo.db.embed.find()
+    embeds = embedCollection.find()
 
 
     return dumps(list(embeds), indent=2)
@@ -28,8 +33,8 @@ def add_embed():
     name = request.json['name']
     url = request.json['url']
 
-    embed_id = mongo.db.embed.insert_one({'name': name, 'url': url})
-    new_embed = mongo.db.embed.find_one({'_id': embed_id.inserted_id})
+    embed_id = embedCollection.insert_one({'name': name, 'url': url})
+    new_embed = embedCollection.find_one({'_id': embed_id.inserted_id})
   
 
     return dumps(new_embed, indent = 2)
@@ -45,14 +50,17 @@ def find_embed():
         return dumps(title, indent=2)
         print("has Title")
 
-    new_title = searchEmbed(name, "")
-    # print(name, id)
+    # try:
+    results = searchEmbed(name)
 
+    for doc in results:
+        embedCollection.update_one(filter={"imdb_id": doc['imdb_id']}, update={"$set": doc}, upsert=True)
+        print(doc["imdb_id"])
     
 
-    embedCollection.insert_one(new_title)
 
-    return dumps(new_title, indent=2)
+
+    return dumps(results, indent=2), 200 if(results) else 400
 
 
 if __name__ == '__main__':
