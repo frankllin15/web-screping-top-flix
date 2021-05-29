@@ -218,3 +218,1250 @@ JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: un
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1622243466832	geckodriver	INFO	Listening on 127.0.0.1:55084
+1622243469914	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileWhv2hF"
+*** You are running in headless mode.
+1622243474588	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+out of memory: 0x0000000000001000 bytes requestedout of memory: 0x0000000000001000 bytes requested
+
+out of memory: 0x0000000000000DD0 bytes requested
+1622243522677	geckodriver	INFO	Listening on 127.0.0.1:55132
+1622243525710	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileDvfNnW"
+1622243526991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Device reporting insufficient max texture size (0)
+[2021-05-28T23:12:11Z ERROR webrender::renderer] Device reporting insufficient max texture size (0)
+[GFX1-]: wr_window_new: MaxTextureSize
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1366, 736
+Hit MOZ_CRASH([unhandlable oom] Failed not allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1189
+Exiting due to channel error.
+1622243560548	geckodriver	INFO	Listening on 127.0.0.1:55185
+1622243563592	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileC5vI3M"
+1622243564144	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 14864, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("Error(s) encountered during statement execution: out of memory", "resource://gre/modules/Sqlite.jsm", 893))
+out of memory: 0x00000000000003C0 bytes requested
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000000DF0 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+Exiting due to channel error.
+1622243686982	geckodriver	INFO	Listening on 127.0.0.1:49766
+1622243690023	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilefpndjQ"
+1622243690524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622243694192	Marionette	INFO	Listening on port 49775
+1622243694570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+1622243708923	Marionette	INFO	Stopped listening on port 49775
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622243722005	geckodriver	INFO	Listening on 127.0.0.1:49872
+1622243725085	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileqC9DvU"
+1622243725563	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622243728489	Marionette	INFO	Listening on port 49880
+1622243728778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622243740578	Marionette	INFO	Stopped listening on port 49880
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622245538142	geckodriver	INFO	Listening on 127.0.0.1:61227
+1622245541164	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile8NhAbe"
+*** You are running in headless mode.
+1622245541952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622245543714	Marionette	INFO	Listening on port 64168
+1622245543828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622245556570	Marionette	INFO	Stopped listening on port 64168
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-messaging.js
+[Parent 9360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622245616055	geckodriver	INFO	Listening on 127.0.0.1:58794
+1622245619079	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilet1rgDO"
+*** You are running in headless mode.
+1622245619766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622245621330	Marionette	INFO	Listening on port 61655
+1622245621751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622245634825	Marionette	INFO	Stopped listening on port 61655
+1622245661864	geckodriver	INFO	Listening on 127.0.0.1:63835
+1622245664902	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileeVKF3e"
+*** You are running in headless mode.
+1622245665387	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622245666968	Marionette	INFO	Listening on port 55729
+1622245667095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+1622245679156	Marionette	INFO	Stopped listening on port 55729
+[Child 10076, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 10076, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+1622245746695	geckodriver	INFO	Listening on 127.0.0.1:53833
+1622245749714	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileFlf8BC"
+*** You are running in headless mode.
+1622245750371	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622245751990	Marionette	INFO	Listening on port 58010
+1622245752391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:53099
+1622245888782	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileF58CwW"
+*** You are running in headless mode.
+1622245889377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622245891175	Marionette	INFO	Listening on port 50245
+1622245891471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+1622245904321	Marionette	INFO	Stopped listening on port 50245
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622245960673	geckodriver	INFO	Listening on 127.0.0.1:50153
+1622245963719	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileHcohKq"
+*** You are running in headless mode.
+1622245964168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622245965795	Marionette	INFO	Listening on port 65199
+1622245965895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57222
+1622246015538	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile2SUyWE"
+*** You are running in headless mode.
+1622246016013	Marionette	INFO	Marionette enabled
+out of memory: 0x0000000000001038 bytes requested
+1622246050632	geckodriver	INFO	Listening on 127.0.0.1:65450
+1622246053675	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilegfX8dY"
+*** You are running in headless mode.
+1622246054155	Marionette	INFO	Marionette enabled
+out of memory: 0x0000000000001038 bytes requested
+uncaught exception: out of memory
+1622246062184	geckodriver	INFO	Listening on 127.0.0.1:54127
+1622246065252	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileU1AZ3a"
+*** You are running in headless mode.
+1622246065708	Marionette	INFO	Marionette enabled
+out of memory: 0x0000000000000560 bytes requested
+1622246074762	geckodriver	INFO	Listening on 127.0.0.1:58007
+1622246077815	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileFkDG0p"
+*** You are running in headless mode.
+1622246078265	Marionette	INFO	Marionette enabled
+[GFX1-]: Failed buffer for 0, 0, 1366, 768
+[GFX1-]: Failed buffer for 0, 0, 1366, 768
+out of memory: 0x0000000000000026 bytes requested
+out of memory: 0x0000000000000030 bytes requested
+out of memory: 0x0000000000000068 bytes requested
+out of memory: 0x0000000000000024 bytes requested
+out of memory: 0x0000000000000068 bytes requested
+out of memory: 0x0000000000000068 bytes requested
+Exiting due to channel error.
+1622246107812	geckodriver	INFO	Listening on 127.0.0.1:64386
+1622246110854	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilewhfFkl"
+*** You are running in headless mode.
+1622246111297	Marionette	INFO	Marionette enabled
+[GFX1-]: Failed buffer for 0, 0, 1366, 768
+out of memory: 0x0000000000007FF8 bytes requested
+1622246156253	geckodriver	INFO	Listening on 127.0.0.1:51388
+1622246159304	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile1UZedr"
+1622246159783	Marionette	INFO	Marionette enabled
+
+###!!! [Parent][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[GFX1-]: Fallback (SW-)WR to Basic
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000C,name=PGPU::Msg_UpdateVar) Channel error: cannot send/recv
+
+[GFX1-]: Failed to initialize GPU process
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000C,name=PGPU::Msg_UpdateVar) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54001C,name=PGPU::Msg_ShutdownVR) Channel error: cannot send/recv
+
+[Parent 3380, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:746
+[Parent 3380, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:746
+out of memory: 0x0000000000003589 bytes requested
+1622246207686	geckodriver	INFO	Listening on 127.0.0.1:59983
+1622246210739	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile5vFLHm"
+1622246211195	Marionette	INFO	Marionette enabled
+[GFX1-]: ShmSegmentsWriter failed to allocate chunk #0
+out of memory: 0x000000000000C000 bytes requested
+out of memory: 0x00000000000000A8 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+Hit MOZ_CRASH([unhandlable oom] Irregexp Zone::New) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1189
+1622246237719	geckodriver	INFO	Listening on 127.0.0.1:60038
+1622246240776	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilefEL9Bs"
+1622246241261	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 12860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622246244680	Marionette	INFO	Listening on port 60046
+1622246244976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622246257888	Marionette	INFO	Stopped listening on port 60046
+[Child 5792, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622246285794	geckodriver	INFO	Listening on 127.0.0.1:60143
+1622246288862	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileqM9C3w"
+1622246289340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622246292432	Marionette	INFO	Listening on port 60151
+1622246292565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622246302281	Marionette	INFO	Stopped listening on port 60151
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 8064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Child 16264, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622246324189	geckodriver	INFO	Listening on 127.0.0.1:60245
+1622246327226	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileOOkBYo"
+1622246327757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622246330823	Marionette	INFO	Listening on port 60253
+1622246330938	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9952, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1622246349028	Marionette	INFO	Stopped listening on port 60253
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622246373874	geckodriver	INFO	Listening on 127.0.0.1:60369
+1622246376930	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilemavEbv"
+1622246377424	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622246380480	Marionette	INFO	Listening on port 60377
+1622246380653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622246388413	Marionette	INFO	Stopped listening on port 60377
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: www/firebase.js
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: www/howler.js
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622246605808	geckodriver	INFO	Listening on 127.0.0.1:60493
+1622246608837	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileaU2gwl"
+*** You are running in headless mode.
+1622246609322	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622246611061	Marionette	INFO	Listening on port 60502
+1622246611528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622246619772	Marionette	INFO	Stopped listening on port 60502
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1622246692833	geckodriver	INFO	Listening on 127.0.0.1:60601
+1622246695868	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilebmmsIS"
+*** You are running in headless mode.
+1622246696399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622246698347	Marionette	INFO	Listening on port 60609
+1622246698565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+1622246793395	geckodriver	INFO	Listening on 127.0.0.1:63884
+1622246796419	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofiletO1b2O"
+*** You are running in headless mode.
+1622246796976	Marionette	INFO	Marionette enabled
+uncaught exception: out of memory
+out of memory: 0x0000000000008000 bytes requested
+<jemalloc>: (malloc) Error initializing arena
+out of memory: 0x0000000000000030 bytes requested
+1622246855830	geckodriver	INFO	Listening on 127.0.0.1:64951
+1622246858840	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile4VfxXR"
+*** You are running in headless mode.
+1622246859314	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622246861137	Marionette	INFO	Listening on port 64959
+1622246861530	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed buffer for 0, 0, 1349, 2560
+[GFX1-]: Failed buffer for 0, 0, 1349, 2560
+[GFX1-]: Failed buffer for 0, 0, 1349, 2560
+[GFX1-]: Failed buffer for 0, 0, 1349, 2560
+[GFX1-]: Failed buffer for 0, 0, 1349, 2560
+[GFX1-]: Failed buffer for 0, 0, 1349, 2560
+[GFX1-]: Failed buffer for 0, 0, 1349, 2560
+out of memory: 0x0000000000020000 bytes requested
+Exiting due to channel error.
+1622247004984	geckodriver	INFO	Listening on 127.0.0.1:49458
+1622247008029	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilepQlCTD"
+*** You are running in headless mode.
+1622247008529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x000000000000C410 bytes requested
+Exiting due to channel error.
+Exiting due to channel error.
+1622247032657	geckodriver	INFO	Listening on 127.0.0.1:49501
+1622247035689	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileY4rMnu"
+1622247036184	Marionette	INFO	Marionette enabled
+out of memory: 0x0000000000100000 bytes requested
+out of memory: 0x00000000000000A8 bytes requested
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB20026,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9E0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x370015,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+out of memory: 0x000000000000E000 bytes requested
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1622247206818	geckodriver	INFO	Listening on 127.0.0.1:49597
+1622247209848	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile9J6pxz"
+1622247210317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622247213556	Marionette	INFO	Listening on port 49606
+1622247214078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622247225099	Marionette	INFO	Stopped listening on port 49606
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622247344139	geckodriver	INFO	Listening on 127.0.0.1:62421
+1622247347172	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileaS3wpH"
+1622247347664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622247350615	Marionette	INFO	Listening on port 62452
+1622247350852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622247361280	Marionette	INFO	Stopped listening on port 62452
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622247403546	geckodriver	INFO	Listening on 127.0.0.1:60892
+1622247406587	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileCZiFG7"
+*** You are running in headless mode.
+1622247407063	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622247408698	Marionette	INFO	Listening on port 60900
+1622247408762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: www/firebase.js
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: www/howler.js
+1622247419958	Marionette	INFO	Stopped listening on port 60900
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622248228390	geckodriver	INFO	Listening on 127.0.0.1:56751
+1622248231414	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofiledGeRxL"
+*** You are running in headless mode.
+1622248231898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622248233554	Marionette	INFO	Listening on port 56759
+1622248233600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622248245701	Marionette	INFO	Stopped listening on port 56759
+[Parent 11620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-messaging.js
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622248315001	geckodriver	INFO	Listening on 127.0.0.1:56869
+1622248318043	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileScX0VK"
+*** You are running in headless mode.
+1622248318501	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622248320233	Marionette	INFO	Listening on port 56877
+1622248320744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622248333394	Marionette	INFO	Stopped listening on port 56877
+[Parent 6772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+1622248599390	geckodriver	INFO	Listening on 127.0.0.1:51987
+1622248602433	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileQjE63B"
+*** You are running in headless mode.
+1622248602918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622248604701	Marionette	INFO	Listening on port 51995
+1622248605126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622248615729	Marionette	INFO	Stopped listening on port 51995
+1622249139297	geckodriver	INFO	Listening on 127.0.0.1:52207
+1622249142345	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilex7DAgJ"
+*** You are running in headless mode.
+1622249142878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622249144551	Marionette	INFO	Listening on port 52215
+1622249145027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622249154898	Marionette	INFO	Stopped listening on port 52215
+1622249719967	geckodriver	INFO	Listening on 127.0.0.1:52365
+1622249722990	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilejJJuE1"
+*** You are running in headless mode.
+1622249723489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622249725306	Marionette	INFO	Listening on port 52373
+1622249725683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622249736180	Marionette	INFO	Stopped listening on port 52373
+1622249776375	geckodriver	INFO	Listening on 127.0.0.1:52475
+1622249779396	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileRq2XV8"
+*** You are running in headless mode.
+1622249779879	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622249781685	Marionette	INFO	Listening on port 52483
+1622249782083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622249792172	Marionette	INFO	Stopped listening on port 52483
+1622252041440	geckodriver	INFO	Listening on 127.0.0.1:59174
+1622252044483	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilemdAs3g"
+*** You are running in headless mode.
+1622252045003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622252046815	Marionette	INFO	Listening on port 63997
+1622252047179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58488
+1622252098005	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilez1c2Ad"
+*** You are running in headless mode.
+1622252098538	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622252100393	Marionette	INFO	Listening on port 60585
+1622252100694	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: out of memory"
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  RemoteSettingsWorkerError: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js, line 1: SyntaxError: missing name after . operator
+JavaScript error: , line 0: uncaught exception: abort("out of memory"). Build with -s ASSERTIONS=1 for more info.
+JavaScript error: https://www.gstatic.com/firebasejs/8.0.1/firebase-messaging.js, line 1: Error: Cannot instantiate firebase-messaging.js - be sure to load firebase-app.js first.
+1622252248190	geckodriver	INFO	Listening on 127.0.0.1:55743
+1622252251226	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileMd5LOp"
+*** You are running in headless mode.
+1622252251784	Marionette	INFO	Marionette enabled
+[GFX1-]: Failed buffer for 0, 0, 1366, 768
+1622252270757	geckodriver	INFO	Listening on 127.0.0.1:49447
+1622252273766	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile8ATCNp"
+*** You are running in headless mode.
+1622252274362	Marionette	INFO	Marionette enabled
+JavaScript error: resource:///modules/UrlbarProviderTabToSearch.jsm, line 97: NS_ERROR_FILE_NOT_FOUND: 
+out of memory: 0x0000000000001500 bytes requested
+out of memory: 0x0000000000000910 bytes requested
+out of memory: 0x0000000000001500 bytes requested
+out of memory: 0x0000000000000910 bytes requested
+1622252370190	geckodriver	INFO	Listening on 127.0.0.1:56844
+1622252373206	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile9zSB6p"
+*** You are running in headless mode.
+1622252373748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+out of memory: 0x0000000000001038 bytes requested
+1622252375554	Marionette	INFO	Listening on port 56852
+out of memory: 0x00000000000053DF bytes requested
+Exiting due to channel error.
+Exiting due to channel error.
+1622252438711	geckodriver	INFO	Listening on 127.0.0.1:49761
+1622252441747	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile8Picub"
+1622252442313	Marionette	INFO	Marionette enabled
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (AMD Radeon(TM) Vega 8 Graphics Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-05-29T01:40:43Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-05-29T01:40:43Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Fallback (SW-)WR to Basic
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+out of memory: 0x0000000000000028 bytes requested
+[GFX1-]: Compositors might be mixed (5,1)
+out of memory: 0x0000000000000080 bytes requested
+out of memory: 0x0000000000000078 bytes requested
+1622252482526	geckodriver	INFO	Listening on 127.0.0.1:62453
+1622252485543	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileGYEkgr"
+1622252486273	Marionette	INFO	Marionette enabled
+uncaught exception: out of memory
+[Parent 11272, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+out of memory: 0x00000000000000C0 bytes requested
+out of memory: 0x0000000000000308 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000000090 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000000088 bytes requested
+[GPU 14440, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1622252548364	geckodriver	INFO	Listening on 127.0.0.1:62498
+1622252551391	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileyzOh0Q"
+1622252552037	Marionette	INFO	Marionette enabled
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate slots while tenuring.) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1189
+[Parent 12860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_opacity
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_opacity
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: ps_text_run
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: ps_text_run
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+Hit MOZ_CRASH([unhandlable oom] js::wasm::Init) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1189
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Failed to compil[GFXe shader: brush_solid
+
+1-]: Fallback (SW-)WR to Bas[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+ic
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_opacity
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_opacity
+    
+[GFX1-]: Failed to compile shader: ps_text_run
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: ps_text_run
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:42:34Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1366, 736
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+out of memory: 0x0000000000000080 bytes requested
+out of memory: 0x0000000000000078 bytes requested
+1622252581736	geckodriver	INFO	Listening on 127.0.0.1:62540
+1622252584761	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile5rcChH"
+1622252585241	Marionette	INFO	Marionette enabled
+[GFX1-]: Failed to link shader program: brush_image
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to link shader program: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GF[GFX1-]: Failed to comX1-]: Fallback (SW-)piWR to Basic
+le shader: brush_image
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_opacity
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_opacity
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: ps_text_run
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: ps_text_run
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_opacity
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_opacity
+    
+[GFX1-]: Failed to compile shader: ps_text_run
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: ps_text_run
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-05-29T01:43:06Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: wr_renderer_render: Shader(Link("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1366, 736
+out of memory: 0x0000000000000A70 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1622252651816	geckodriver	INFO	Listening on 127.0.0.1:65388
+1622252654845	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileVOFydg"
+1622252655422	Marionette	INFO	Marionette enabled
+out of memory: 0x0000000000100000 bytes requested
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x54000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB20006,name=PWebRenderBridge::Msg_SetDisplayList) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB20008,name=PWebRenderBridge::Msg_SetFocusTarget) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380008,name=PCompositorManager::Msg_ReportMemory) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB20026,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9E0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x370015,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: shader-cache: Failed to deserialize program binary: File size is too small
+[2021-05-29T01:44:18Z ERROR webrender_bindings::program_cache] shader-cache: Failed to deserialize program binary: File size is too small
+[GFX1-]: shader-cache: Failed to deserialize program binary: File size is too small
+[2021-05-29T01:44:18Z ERROR webrender_bindings::program_cache] shader-cache: Failed to deserialize program binary: File size is too small
+[GFX1-]: shader-cache: Failed to deserialize program binary: File size is too small
+[2021-05-29T01:44:18Z ERROR webrender_bindings::program_cache] shader-cache: Failed to deserialize program binary: File size is too small
+[GFX1-]: shader-cache: Failed to deserialize program binary: File size is too small
+[2021-05-29T01:44:18Z ERROR webrender_bindings::program_cache] shader-cache: Failed to deserialize program binary: File size is too small
+[GFX1-]: shader-cache: Failed to deserialize program binary: File size is too small
+[2021-05-29T01:44:18Z ERROR webrender_bindings::program_cache] shader-cache: Failed to deserialize program binary: File size is too small
+1622252659898	Marionette	INFO	Listening on port 65396
+1622252660173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("out of memory"). Build with -s ASSERTIONS=1 for more info.
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Compositors might be mixed (5,1)
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 4768, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1622252679881	Marionette	INFO	Stopped listening on port 65396
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622252744404	geckodriver	INFO	Listening on 127.0.0.1:65486
+1622252747449	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilewlAmUj"
+1622252747947	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 10176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622252751121	Marionette	INFO	Listening on port 65498
+1622252751160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: www/firebase.js
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: www/howler.js
+JavaScript error: , line 0: uncaught exception: abort("out of memory"). Build with -s ASSERTIONS=1 for more info.
+1622252761901	Marionette	INFO	Stopped listening on port 65498
+out of memory: 0x0000000000200000 bytes requested
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622252803534	geckodriver	INFO	Listening on 127.0.0.1:49209
+1622252806550	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilenEywHU"
+*** You are running in headless mode.
+1622252807022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622252808930	Marionette	INFO	Listening on port 49217
+1622252809225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622252821290	Marionette	INFO	Stopped listening on port 49217
+[Parent 12860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622252822967	geckodriver	INFO	Listening on 127.0.0.1:49313
+1622252826012	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilevTSxsQ"
+*** You are running in headless mode.
+1622252826635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622252828481	Marionette	INFO	Listening on port 49321
+1622252828703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622252841378	Marionette	INFO	Stopped listening on port 49321
+[Parent 15584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622252842407	geckodriver	INFO	Listening on 127.0.0.1:49419
+1622252845423	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilelEgcSN"
+*** You are running in headless mode.
+1622252845913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622252847835	Marionette	INFO	Listening on port 49428
+1622252848105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622252859388	Marionette	INFO	Stopped listening on port 49428
+1622252975657	geckodriver	INFO	Listening on 127.0.0.1:49564
+1622252978700	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileX1OcBw"
+*** You are running in headless mode.
+1622252979184	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622252981103	Marionette	INFO	Listening on port 49572
+1622252981425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: www/howler.js
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: www/firebase.js
+1622252992834	Marionette	INFO	Stopped listening on port 49572
+1622253206575	geckodriver	INFO	Listening on 127.0.0.1:51409
+1622253209588	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileDeEjwj"
+*** You are running in headless mode.
+1622253210207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622253211961	Marionette	INFO	Listening on port 51418
+1622253212270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622253223824	Marionette	INFO	Stopped listening on port 51418
