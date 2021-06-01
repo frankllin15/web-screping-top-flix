@@ -2646,3 +2646,2116 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
 JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
 1622322099330	Marionette	INFO	Stopped listening on port 51667
+1622440334544	geckodriver	INFO	Listening on 127.0.0.1:58222
+1622440337590	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilegI9D3T"
+*** You are running in headless mode.
+1622440342333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 13428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622440349248	Marionette	INFO	Listening on port 51787
+1622440349916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622440363597	Marionette	INFO	Stopped listening on port 51787
+1622441661301	geckodriver	INFO	Listening on 127.0.0.1:64259
+1622441664325	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileKoNhvy"
+*** You are running in headless mode.
+1622441665269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622441666941	Marionette	INFO	Listening on port 60377
+1622441667066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622441679764	Marionette	INFO	Stopped listening on port 60377
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622442766696	geckodriver	INFO	Listening on 127.0.0.1:57603
+1622442769703	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilej339Im"
+*** You are running in headless mode.
+1622442770622	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622442772137	Marionette	INFO	Listening on port 64681
+1622442772374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622442785735	Marionette	INFO	Stopped listening on port 64681
+1622442849164	geckodriver	INFO	Listening on 127.0.0.1:61638
+1622442852184	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilefh7HJ4"
+*** You are running in headless mode.
+1622442852658	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622442854304	Marionette	INFO	Listening on port 53648
+1622442854356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622442867734	Marionette	INFO	Stopped listening on port 53648
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1622442895056	geckodriver	INFO	Listening on 127.0.0.1:61739
+1622442898107	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileWgdtlN"
+*** You are running in headless mode.
+1622442898531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622442900192	Marionette	INFO	Listening on port 57712
+1622442900266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622442913482	Marionette	INFO	Stopped listening on port 57712
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB30006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1622443017459	geckodriver	INFO	Listening on 127.0.0.1:56871
+1622443020492	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilewJlKp5"
+*** You are running in headless mode.
+1622443020929	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622443022394	Marionette	INFO	Listening on port 55865
+1622443022557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622443034892	Marionette	INFO	Stopped listening on port 55865
+1622443139913	geckodriver	INFO	Listening on 127.0.0.1:55807
+1622443142954	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileirLN72"
+1622443143440	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622443148515	Marionette	INFO	Listening on port 53155
+1622443148766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622443161168	Marionette	INFO	Stopped listening on port 53155
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622443259083	geckodriver	INFO	Listening on 127.0.0.1:63909
+1622443262105	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile42ccxz"
+1622443262600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622443265994	Marionette	INFO	Listening on port 59788
+1622443266289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-messaging.js
+1622443286564	Marionette	INFO	Stopped listening on port 59788
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622443312425	geckodriver	INFO	Listening on 127.0.0.1:53960
+1622443315477	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile08OI7Y"
+1622443315935	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622443318538	Marionette	INFO	Listening on port 53152
+1622443318679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+1622443330832	Marionette	INFO	Stopped listening on port 53152
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622443615770	geckodriver	INFO	Listening on 127.0.0.1:61618
+1622443618791	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileQZpaFb"
+1622443619545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 8024, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622443623128	Marionette	INFO	Listening on port 59432
+1622443623615	Marionette	WARN	TLS certificate errors will be ignored for this session
+out of memory: 0x0000000000002000 bytes requested
+Exiting due to channel error.
+1622443648531	geckodriver	INFO	Listening on 127.0.0.1:62721
+1622443651578	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile2KHoMu"
+1622443652087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622443655172	Marionette	INFO	Listening on port 62860
+1622443655272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622443668083	Marionette	INFO	Stopped listening on port 62860
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622443806918	geckodriver	INFO	Listening on 127.0.0.1:53458
+1622443809922	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileO9H3fD"
+1622443810754	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622443814146	Marionette	INFO	Listening on port 51480
+1622443814254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622443827367	Marionette	INFO	Stopped listening on port 51480
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622444042556	geckodriver	INFO	Listening on 127.0.0.1:56813
+1622444045574	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilepEui4Y"
+*** You are running in headless mode.
+1622444046304	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622444048570	Marionette	INFO	Listening on port 56598
+1622444048757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622444062087	Marionette	INFO	Stopped listening on port 56591622444064878	mozrunner::runner	INFO	Running command: "C:\\User1622444065208	mozrunner::runner	INFO	Running command: "C:\\U1622444065643	mozrunner::runner	INFO	Running command: "C:\\U1622444066911	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foregrconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+No settings file exists, new profile?" (out of memory: 0x0000000000001038 byExiting due to channel error.
+Exiting due to channel error.
+ at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1189
+RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 14724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Exiting due to channel error.
+1622444070121	geckodriver	INFO	Listening on 127.0.0.1:54159
+1622444073134	mozrunner::runner	INFO	Running command: "C:\\U1622444073513	mozrunner::runner	INFO	Running command: "C:\\U1622444073667	mozrunner::runner	INFO	Running command: "C:\\U1622444075217	mozrunner::runner	INFO	Running command: "C:\\U1622444075357	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings fileJavaScript error: 1622444077207	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Loca1622444077867	Marionette	INFO	Listening on port 64684
+1622444078015	Ma1622444078026	Marionette	INFO	Marionette enabled
+console.warn: SearchSJavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-messaging.js
+1622444089787	Marionette	INFO	Stopped listening on port 64684
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Extension shutdown: formautofill@mozilla.org","state":{"state":"Startup: Run manifest, asyncEmitManifestEntry(\"background\")"},"filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2605,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup/<:2605","resource://gre/modules/AsyncShutdown.jsm:observe:575","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:2860","chrome://marionette/content/server.js:despatch:291","chrome://marionette/contentExiting due to channel error.
+://marionette/content/server.js:onPacket/<:237","chrome://marionette/content/server.js:onPacket:238","chrome://marionette/content/transport.js:_onJSONObjectReady/<:504"]}] Barrier: profile-change-teardown
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+FATAL ERROR: AsyncShutdown timeout in profile-change-teardown Conditions: [{"name":"Extension shutdown: formautofill@mozilla.org","state":{"state":"Startup: Run manifest, asyncEmitManifestEntry(\"background\")"},"filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2605,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup/<:2605","resource://gre/modules/AsyncShutdown.jsm:observe:575","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:2860","chrome://marionette/content/server.js:despatch:291","chrome://marionette/content/server.js:execute:264","chrome://marionette/content/server.js:onPacket/<:237","chrome://marionette/content/server.js:onPacket:238","chrome://marionette/content/transport.js:_onJSONObjectReady/<:504"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 13508, Main Thread] ###!!! ABORT: file resource://gre/modules/addons/XPIProvider.jsm:2605
+[Parent 13508, Main Thread] ###!!! ABORT: file resource://gre/modules/addons/XPIProvider.jsm:2605
+Exiting due to channel error.
+zrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Localconsole.warn: SearchSettings: "get: No settings file exists,out of memory: 0x0000000000002010 bytes requested
+: Failed buffer for 0, 0, 1366, 768
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of[Parent 4236, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 4236, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 4236, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+uncaught exception: out of memory
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 929: NS_ERROR_XPC_JS_THREW_STRING: out of memory'out of memory' when calling method: [nsIBrowserDOMWindow::openURI]
+console.log: "RemoteSettingsWorker error: out of memory"
+out of memory: 0x0000000000000080 bytes requested
+out of memory: 0x0000000000000080 bytes requested
+1622444134474	geckodriver	INFO	Listening on 127.0.0.1:52259
+1622444137507	mozrunner::runner	INFO	Running command: "C:\\U1622444137872	mozrunner::runner	INFO	Running command: "C:\\U1622444138063	mozrunner::runner	INFO	Running command: "C:\\U1622444138288	mozrunner::runner	INFO	Running command: "C:\\U1622444138522	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla console.warn: SearchSettings: "get: No settings file exists,out of memory: 0x0000000000000040 bytes requested
+EExiting due to channel error.
+xiting due to channel error.
+, line out of memory: 0x0000000000001000 bytes requested
+ry: 0x000out of memory: 0x0000000000000058 bytes requested
+0000000001500 bytes requested
+out of memory: 0x0000000000000C50 bytes requested
+1622444141139	geckodriver	INFO	Listening on 127.0.0.1:54216
+1622444144172	mozrunner::runner	INFO	Running command: "C:\\U1622444145299	mozrunner::runner	INFO	Running command: "C:\\U1622444145835	mozrunner::runner	INFO	Running command: "C:\\U1622444145929	mozrunner::runner	INFO	Running command: "C:\\U1622444146343	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foregrounout of memory: 0x0000000000000080 bytes requested
+e16224441out of memory: 0x0000000000000018 bytes requestedout of memoconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622444150495	Marionette	INFO	Listening on port 51089
+1622444151019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript warning: https://xat.com/content/web/R00036/box/xatcorewasm.php, line 1: WebAssembly.Memory failed to reserve a large virtual memory region. This may be due to low configured virtual memory limits on this system.
+JavaScript error: , line 0: uncaught exception: out of memory
+1622444163856	Marionette	INFO	Stopped listening on port 51089
+ner	INFO	Running command: "C:\\U1622444154020	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Localconsole.warn: SearchSettings: "get: No settings file exists,console.wa1622444156682	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla FirefJavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1954: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFout of memory: 0x0000000000000040 bytes requested
+out of memory: 0x0000000000000038 bytes requested
+onent returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+1622444157483	Marionette	INFO	Listening on port 60277
+1622444157787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1363: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1363: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1363: TypeError: conn is undefined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1363: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1363: TypeError: conn is undefined
+1622444170429	Marionette	INFO	Stopped listening on port 60277
+Phase: profile-change-teardown
+          State: {"state":""}
+WARNING: out of memory
+[Parent 17332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: uncaught exception: out of memory
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 17332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashService waiting for content crash ping to be sent
+          Phase: profile-before-change
+          State: (none)
+WARNING: NotAllowedError: Shutting down and refusing additional I/O tasks
+WARNING: save/<@resource://gre/modules/CrashManager.jsm:1132:32
+save@resource://gre/modules/CrashManager.jsm:1139:7
+addCrash/promise<@resource://gre/modules/CrashManager.jsm:468:21
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1132: NotAllowedError: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1132: NotAllowedError: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1132: NotAllowedError: Shutting down and refusing additional I/O tasks
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Remote Settings profile-before-change","state":"Remaining: 1 callbacks (importJSONDump-main-top-sites-6).","filename":"resource://services-settings/RemoteSettingsWorker.jsm","lineNumber":201,"stack":["resource://services-settings/RemoteSettingsWorker.jsm:null:201","resource://services-settings/RemoteSettingsClient.jsm:_importJSON1622444168515	mozrunner::runner	INFO	Running command: "C:\\U1622444169776	mozrunner::runner	INFO	Running command: "C:\\U1622444170233	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppDconsole.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1132: NotAllowedError: Shutting down and refusing additional I/O tasks
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+FATAL ERROR: AsyncShutdown timeout in profile-before-change Conditions: [{"name":"Remote Settings profile-before-change","state":"Remaining: 1 callbacks (importJSONDump-main-top-sites-6).","filename":"resource://services-settings/RemoteSettingsWorker.jsm","lineNumber":201,"stack":["resource://services-settings/RemoteSettingsWorker.jsm:null:201","resource://services-settings/RemoteSettingsClient.jsm:_importJSONDump:780","resource://services-settings/RemoteSettingsClient.jsm:get/this._importingPromise<:363","resource://services-settings/RemoteSettingsClient.jsm:get:372"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 17332, Main Thread] ###!!! ABORT: file resource://services-settings/RemoteSettingsWorker.jsm:201
+[Parent 17332, Main Thread] ###!!! ABORT: file resource://services-settings/RemoteSettingsWorker.jsm:201
+ARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=228f8cda800","state":{"remoteTypePrefix":"prealloc"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3540,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162"]}] Barrier: profile-before-change
+1622444202666	Marionette	INFO	Stopped listening on port 57447
+g command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headl1622444187289	Marionette	INFO	Listening on port 61880
+1622444187457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 0, 0, 1349, 686
+[GFX1-]: Failed buffer for 91, 365, 1167, 306
+ exists, new profile?" (new Error("", "(unknown module)"))
+1622453950954	Marionette	INFO	Listening on port 60875
+1622453951167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622453963389	Marionette	INFO	Stopped listening on port 60875
+1622453983495	geckodriver	INFO	Listening on 127.0.0.1:55836
+1622453986538	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileQosO2w"
+*** You are running in headless mode.
+1622453987083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622453989027	Marionette	INFO	Listening on port 56839
+1622453989217	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622454000931	Marionette	INFO	Stopped listening on port 56839
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB30006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1622454183887	geckodriver	INFO	Listening on 127.0.0.1:63681
+1622454186928	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilec8tcLw"
+*** You are running in headless mode.
+1622454187443	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622454189248	Marionette	INFO	Listening on port 53549
+1622454189649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622454202371	Marionette	INFO	Stopped listening on port 53549
+[Parent 15444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622454208006	geckodriver	INFO	Listening on 127.0.0.1:64958
+1622454211044	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileixj0DH"
+*** You are running in headless mode.
+1622454211510	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622454213281	Marionette	INFO	Listening on port 60755
+1622454213719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622454225350	Marionette	INFO	Stopped listening on port 60755
+1622497732594	geckodriver	INFO	Listening on 127.0.0.1:53000
+1622497735661	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileSdsUM3"
+*** You are running in headless mode.
+1622497738554	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622497740336	Marionette	INFO	Listening on port 53008
+1622497740635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622497755414	Marionette	INFO	Stopped listening on port 53008
+1622497862412	geckodriver	INFO	Listening on 127.0.0.1:59786
+1622497865427	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilegFmfIL"
+*** You are running in headless mode.
+1622497865981	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622497867523	Marionette	INFO	Listening on port 52765
+1622497867605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622497880110	Marionette	INFO	Stopped listening on port 52765
+[Parent 19232, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622497896476	geckodriver	INFO	Listening on 127.0.0.1:54162
+1622497899465	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile8gr6Vl"
+*** You are running in headless mode.
+1622497899959	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622497901660	Marionette	INFO	Listening on port 54170
+1622497902184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622497915314	Marionette	INFO	Stopped listening on port 54170
+1622504949440	geckodriver	INFO	Listening on 127.0.0.1:58633
+1622504952417	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileHWWSAw"
+*** You are running in headless mode.
+1622504953940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622504955903	Marionette	INFO	Listening on port 51765
+1622504956098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622504970511	Marionette	INFO	Stopped listening on port 51765
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-messaging.js
+1622505952054	geckodriver	INFO	Listening on 127.0.0.1:55791
+1622505955062	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilehO2COn"
+*** You are running in headless mode.
+1622505957089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622505958881	Marionette	INFO	Listening on port 57127
+1622505959241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: www/firebase.js
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: www/howler.js
+1622505973508	Marionette	INFO	Stopped listening on port 57127
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+1622505979465	geckodriver	INFO	Listening on 127.0.0.1:64246
+1622505982524	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile2bcGKf"
+*** You are running in headless mode.
+1622505983078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622505984926	Marionette	INFO	Listening on port 51264
+1622505985209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+1622505997163	Marionette	INFO	Stopped listening on port 51264
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+[Parent 15900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+11	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622505997525	Marionette	INFO	Listening on port 61465
+1622505997834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622506010867	Marionette	INFO	Stopped listening on port 61465
+1622507205934	geckodriver	INFO	Listening on 127.0.0.1:50061
+1622507208966	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileGlXJJj"
+*** You are running in headless mode.
+1622507209581	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622507211393	Marionette	INFO	Listening on port 51454
+1622507211677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622507225452	Marionette	INFO	Stopped listening on port 51454
+1622508154702	geckodriver	INFO	Listening on 127.0.0.1:51907
+1622508157758	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile8niJVF"
+*** You are running in headless mode.
+1622508158288	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622508160188	Marionette	INFO	Listening on port 50803
+Hit MOZ_CRASH([unhandlable oom] js::wasm::Init) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1189
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 10976, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[Parent 10976, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622508160691	Marionette	INFO	Stopped listening on port 50803
+1622508205691	geckodriver	INFO	Listening on 127.0.0.1:61569
+1622508208742	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileN2linR"
+*** You are running in headless mode.
+1622508209358	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622508211271	Marionette	INFO	Listening on port 63923
+1622508211419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622508225070	Marionette	INFO	Stopped listening on port 63923
+[Parent 12428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622508368929	geckodriver	INFO	Listening on 127.0.0.1:55299
+1622508371997	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileIyq7D4"
+*** You are running in headless mode.
+1622508372505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622508374365	Marionette	INFO	Listening on port 57108
+1622508374695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+[GFX1-]: Failed buffer for 0, 698, 717, 716
+[GFX1-]: Failed buffer for 0, 698, 717, 716
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622508390630	Marionette	INFO	Stopped listening on port 57108
+out of memory: 0x0000000000200000 bytes requested
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 8296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+1622508511784	geckodriver	INFO	Listening on 127.0.0.1:65167
+1622508514810	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileraTeWj"
+*** You are running in headless mode.
+1622508515331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622508517264	Marionette	INFO	Listening on port 64538
+1622508517508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622508531913	Marionette	INFO	Stopped listening on port 64538
+2508525144	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileg7Gof2"
+*** You are running in headless mode.
+1622508983899	geckodriver	INFO	Listening on 127.0.0.1:56323
+1622508986935	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilelvW2Wj"
+*** You are running in headless mode.
+1622508987491	Marionette	INFO	Marionette enabled
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser-sidebar.js, line 84: ReferenceError: PromiseUtils is not defined
+out of memory: 0x0000000000000078 bytes requested
+1622509053345	geckodriver	INFO	Listening on 127.0.0.1:60271
+1622509056383	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilerugvwA"
+*** You are running in headless mode.
+1622509056913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622509059033	Marionette	INFO	Listening on port 49636
+1622509059133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622509072687	Marionette	INFO	Stopped listening on port 49636
+1622509290493	geckodriver	INFO	Listening on 127.0.0.1:61899
+1622509293533	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileQN2Iw9"
+*** You are running in headless mode.
+1622509294059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622509295781	Marionette	INFO	Listening on port 50852
+1622509296423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/act1622509307370	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe"1622509309540	Marionette	INFO	Stopped listening on port 50852
+e" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileQnfA6x"
+*** You are running in headless mode.
+1622509308160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622509310850	Marionette	INFO	Listening on port 53346
+1622509311069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: www/firebase.js
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: www/howler.js
+1622509325972	Marionette	INFO	Stopped listening on port 53346
+1622509348763	geckodriver	INFO	Listening on 127.0.0.1:58729
+1622509351787	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileWoqxvi"
+*** You are running in headless mode.
+1622509352287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622509353827	Marionette	INFO	Listening on port 52031
+1622509353964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622509366626	Marionette	INFO	Stopped listening on port 52031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622509453501	geckodriver	INFO	Listening on 127.0.0.1:57445
+1622509456549	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofiletQWM6D"
+*** You are running in headless mode.
+1622509457695	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622509460113	Marionette	INFO	Listening on port 58352
+Hit MOZ_CRASH([unhandlable oom] js::wasm::Init) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1189
+1622509460246	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 14156, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=204c2563800","state":{"remoteTypePrefix":"prealloc"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3540,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162"]}] Barrier: profile-before-change
+1622509480477	Marionette	INFO	Stopped listening on port 58352
+1622509687983	geckodriver	INFO	Listening on 127.0.0.1:56190
+1622509690992	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilePBtmqJ"
+*** You are running in headless mode.
+1622509691513	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Failed buffer for 0, 78, 1366, 51
+[GFX1-]: Failed buffer for 0, 82, 1366, 36
+out of memory: 0x0000000000000380 bytes requested
+out of memory: 0x00000000000002C0 bytes requested
+Exiting due to channel error.
+1622509695408	geckodriver	INFO	Listening on 127.0.0.1:63527
+1622509698489	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileFbbCJH"
+*** You are running in headless mode.
+1622509698969	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[Parent 19276, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:746
+1622509700776	Marionette	INFO	Listening on port 51852
+JavaScript error: chrome://marionette/content/server.js, line 74: NS_ERROR_FILE_NOT_FOUND: 
+JavaScript error: chrome://marionette/content/server.js, line 74: NS_ERROR_FILE_NOT_FOUND: 
+1622509701608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+1622509714969	Marionette	INFO	Stopped listening on port 51852
+JavaScript error: , line 0: uncaught exception: out of memory
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1832f52e000","state":{"remoteTypePrefix":"prealloc"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3540,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162"]}] Barrier: profile-before-change
+1622509737673	geckodriver	INFO	Listening on 127.0.0.1:53222
+1622509740718	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileerfmfk"
+*** You are running in headless mode.
+1622509741407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622509743352	Marionette	INFO	Listening on port 53784
+1622509743398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622509755499	Marionette	INFO	Stopped listening on port 53784
+1622509767139	geckodriver	INFO	Listening on 127.0.0.1:58923
+1622509770167	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileyBVmbX"
+*** You are running in headless mode.
+1622509770704	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622509772555	Marionette	INFO	Listening on port 59088
+1622509772887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622509786046	Marionette	INFO	Stopped listening on port 59088
+1622509885857	geckodriver	INFO	Listening on 127.0.0.1:52966
+1622509888883	mozrunner::runner	INFO	Running command: "C:\\U1622509891822	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileFSrG71"
+*** You are running in headless mode.
+1622509892491	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622509894710	Marionette	INFO	Listening on port 55159
+1622509895030	Marionette	WAJavaScript error: https://xat.com/content/web/R00036/box/actJavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found1622509906339	Marionette	INFO	Stopped listening on port 59456
+b/R00036/box/activity.js, line 1: uncaught exception: file not found: www/howler.js
+1622509907165	Marionette	INFO	Stopped listening on port 55159
+1622509956804	geckodriver	INFO	Listening on 127.0.0.1:57235
+1622509959821	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileQrEmAZ"
+*** You are running in headless mode.
+1622509960342	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622509961984	Marionette	INFO	Listening on port 53034
+1622509962479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622509975062	Marionette	INFO	Stopped listening on port 53034
+1622510014985	geckodriver	INFO	Listening on 127.0.0.1:64578
+1622510018010	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile2LPkaO"
+*** You are running in headless mode.
+1622510018470	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622510020034	Marionette	INFO	Listening on port 50495
+1622510020064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622510033933	Marionette	INFO	Stopped listening on port 50495
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+exists, new profile?" (new Error("", "(unknown module)"))
+1622510028468	Marionette	INFO	Listening on port 56560
+1622510028741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+1622510041181	Marionette	INFO	Stopped listening on port 56560
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622510261533	geckodriver	INFO	Listening on 127.0.0.1:63795
+1622510264451	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileqzoYpO"
+*** You are running in headless mode.
+1622510265003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622510266799	Marionette	INFO	Listening on port 62311
+1622510267195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622510280847	Marionette	INFO	Stopped listening on port 62311
+[Parent 16520, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622510281852	geckodriver	INFO	Listening on 127.0.0.1:51384
+1622510284877	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilecHFTVQ"
+*** You are running in headless mode.
+1622510285337	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622510286979	Marionette	INFO	Listening on port 52089
+1622510287067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622510299591	Marionette	INFO	Stopped listening on port 52081622510302529	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilebNqVyI"
+*** You are running in headless mode.
+1622510303009	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622510304790	Marionette	INFO	Listening on port 51733
+1622510305236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+JavaScript error: , line 0: uncaught exception: abort("abort(\"both async and sync fetching of the wasm failed\"). Build with -s ASSERTIONS=1 for more info."). Build with -s ASSERTIONS=1 for more info.
+1622510318531	Marionette	INFO	Stopped listening on port 51733
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622510344184	geckodriver	INFO	Listening on 127.0.0.1:57873
+1622510347224	mozrunner::runner	INFO	Running command: "C:\\U1622510349176	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile13aRkh"
+*** You are running in headless mode.
+1622510349792	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622510351602	Marionette	INFO	Listening on port 55441
+1622510351867	Marionette	WA1622510363020	Marionette	INFO	Stopped listening on port 62091622510366026	Marionette	INFO	Stopped listening on port 55441
+1622510400033	geckodriver	INFO	Listening on 127.0.0.1:59228
+1622510403059	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileiXUhvf"
+*** You are running in headless mode.
+1622510403533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622510405149	Marionette	INFO	Listening on port 63027
+1622510405229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622510416976	Marionette	INFO	Stopped listening on port 63027
+1622510909171	geckodriver	INFO	Listening on 127.0.0.1:56334
+1622510912229	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile3vJyuH"
+*** You are running in headless mode.
+1622510912819	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622510914692	Marionette	INFO	Listening on port 63781
+Hit MOZ_CRASH([unhandlable oom] js::wasm::Init) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1189
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 8588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1622510915311	Marionette	INFO	Stopped listening on port 63781
+1622510916661	geckodriver	INFO	Listening on 127.0.0.1:50790
+1622510919700	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileEwSYxP"
+*** You are running in headless mode.
+1622510920191	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: "Could not load engine wikipedia@search.mozilla.org: out of memory"
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+1622510922061	Marionette	INFO	Listening on port 55461
+1622510922396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622510934951	Marionette	INFO	Stopped listening on port 55461
+1622511067534	geckodriver	INFO	Listening on 127.0.0.1:64618
+1622511070546	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofilevPPGQM"
+*** You are running in headless mode.
+1622511071260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622511073272	Marionette	INFO	Listening on port 52860
+1622511073719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:65099
+1622511625929	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileZEYcd4"
+*** You are running in headless mode.
+1622511627494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622511629113	Marionette	INFO	Listening on port 65223
+1622511629636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-messaging.js
+1622511642951	Marionette	INFO	Stopped listening on port 65223
+1622511968486	geckodriver	INFO	Listening on 127.0.0.1:61404
+1622511971459	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileF6wBQA"
+*** You are running in headless mode.
+1622511972877	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: SearchEngineSelector: "out of memory"
+console.error: SearchEngineSelector: "Received empty search configuration!"
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource://activity-stream/lib/ActivityStream.jsm, line 486: uncaught exception: out of memory
+JavaScript error: resource://activity-stream/lib/ActivityStream.jsm, line 486: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: resource://gre/modules/PushService.jsm, line 278: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 2550: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1952: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser.js, line 2408: uncaught exception: out of memory
+JavaScript error: resource:///modules/DownloadsCommon.jsm, line 897: uncaught exception: out of memory
+JavaScript error: resource:///modules/DownloadsCommon.jsm, line 897: uncaught exception: out of memory
+JavaScript error: resource:///modules/DownloadsCommon.jsm, line 897: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 398: uncaught exception: out of memory
+console.error: SearchEngineSelector: ({})
+console.error: SearchEngineSelector: 
+console.error: SearchService:  2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/SearchService.jsm, line 226: NS_ERROR_UNEXPECTED: SearchService previously failed to initialize
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/SearchService.jsm, line 1303: NS_ERROR_UNEXPECTED: SearchService initialization failed
+JavaScript error: chrome://browser/content/browser.js, line 2430: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser.js, line 2430: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: , line 0: uncaught exception: out of memory
+[Parent 10056, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:746
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.jsm", 223))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: SearchService: "maybeReloadEngines failed" (new TypeError("defaultEngine is undefined", "resource://gre/modules/SearchService.jsm", 1105))
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 674: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 450: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+ors will be ignored for this session
+1622513400959	Marionette	INFO	Stopped listening on port 62069
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-messaging.js
+1622513878031	geckodriver	INFO	Listening on 127.0.0.1:52135
+1622513881059	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileaW0fEd"
+*** You are running in headless mode.
+1622513881508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622513883266	Marionette	INFO	Listening on port 56899
+1622513883743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622513896466	Marionette	INFO	Stopped listening on port 56899
+1622513926413	geckodriver	INFO	Listening on 127.0.0.1:52293
+1622513929443	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofileH32IO9"
+*** You are running in headless mode.
+1622513929954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622513931448	Marionette	INFO	Listening on port 57976
+1622513931513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://xat.com/content/web/R00036/box/activity.js, line 1: uncaught exception: file not found: https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js
+1622513943869	Marionette	INFO	Stopped listening on port 57976
+1622514058754	geckodriver	INFO	Listening on 127.0.0.1:64282
+1622514061787	mozrunner::runner	INFO	Running command: "C:\\Users\\frank\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\frank\\AppData\\Local\\Temp\\rust_mozprofile1lCxLt"
+*** You are running in headless mode.
+1622514062514	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622514063986	Marionette	INFO	Listening on port 50620
+1622514064479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.topflix.pro/admin/login-form/js/login.js, line 1: ReferenceError: $ is not defined
+1622514074844	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1622514074845	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1622514077900	Marionette	INFO	Stopped listening on port 50620

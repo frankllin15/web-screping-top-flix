@@ -44,7 +44,7 @@ def searchEmbed(media_name):
    
         results = []
 
-        for l in range(0, len(links_embeds)):
+        for l in range(0, len(links_embeds)-1):
             results.append({
                 "title_name": title_name[l].get_attribute("innerHTML"),
                 "embed": links_embeds[l].get_attribute("href"),
